@@ -62,3 +62,5 @@ Test Case 3 Passed: add(5, -10) = -5
 ## Kết Luận
 Cách tiếp cận kiểm thử đơn vị thủ công đã chứng minh được tính đúng đắn của phương thức `add` trong các kịch bản khác nhau. Mặc dù cách tiếp cận này phù hợp cho các kiểm thử quy mô nhỏ, nhưng nên sử dụng các thư viện kiểm thử tự động như JUnit cho các dự án lớn hơn để nâng cao hiệu quả, khả năng đọc và bảo trì của kiểm thử.
 
+## Link ChatGPT
+https://chatgpt.com/share/677b3b50-598c-800d-b5d8-80c5bb9f6eb5
